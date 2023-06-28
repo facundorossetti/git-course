@@ -1,1 +1,1 @@
-git-course
+console.log('hi')
